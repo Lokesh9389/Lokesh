@@ -1,3 +1,9 @@
 {"user_id": 123456789, "plan": 1, "valid_until": "2024-12-31", "access_count": 0}
 {"user_id": 987654321, "plan": 2, "valid_until": "2025-01-01", "access_count": 5}
 {"user_id": 2085082046, "plan": 1, "valid_until": "2030-09-23", "access_count": 0}
+{"user_id": 2102111052, "plan": 100, "valid_until": "2027-07-10", "access_count": 0}
+{"user_id": 6376282471, "plan": 100, "valid_until": "2024-10-14", "access_count": 0}
+{"user_id": 5748179934, "plan": 100, "valid_until": "2024-10-14", "access_count": 0}
+{"user_id": 5644233697, "plan": 100, "valid_until": "2024-10-14", "access_count": 0}
+{"user_id": 1815750740, "plan": 0, "valid_until": "2024-10-13", "access_count": 0}
+{"user_id": 1815750740, "plan": 100, "valid_until": "2024-10-14", "access_count": 0}
